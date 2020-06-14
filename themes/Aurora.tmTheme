@@ -13,15 +13,13 @@
 				<key>background</key>
 				<string>#1C2024</string>
 				<key>caret</key>
-				<string>#F0F8FF</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#F0F8FF</string>
+				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
-				<key>lineHighlight</key>
-				<string>#363A3E</string>
+				<string>#44475A</string>
 				<key>selection</key>
-				<string>#363A3E</string>
+				<string>#44475A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -32,7 +30,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ABCCC066</string>
+				<string>#6272A4</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -43,7 +43,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99BAEB</string>
+				<string>#F1FA8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,7 +54,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#65C894</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -76,7 +76,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#65C894</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -98,7 +98,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#42A0ED</string>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,7 +122,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#AA76CC</string>
 			</dict>
@@ -150,7 +150,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E06B6B</string>
+				<string>#8BE9FD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -163,7 +163,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#65C894</string>
+				<string>#50FA7B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -174,7 +174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FFC107</string>
 			</dict>
@@ -215,7 +215,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8B9E97</string>
+				<string>#8BE9FD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -228,7 +228,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8B9E97</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
