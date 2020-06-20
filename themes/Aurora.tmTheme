@@ -72,11 +72,22 @@
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>constant.character</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD93F9</string>
+				<string>#B6B4B2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>User-defined constant</string>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F65F27</string>
 			</dict>
 		</dict>
 		<dict>
